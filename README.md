@@ -1,6 +1,5 @@
 # Asadbek Yakubov 
 
-# Asadbek-Yakubov
 
 
 
