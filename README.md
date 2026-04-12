@@ -73,7 +73,8 @@
 ###
 
 
-
+I am a passionate web developer and computer graphics student 🎨.
+I enjoy building modern, responsive websites 🌐 and improving my programming skills every day 🚀.
 
 
 ###
