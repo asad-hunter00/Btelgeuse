@@ -90,3 +90,14 @@ Work with dashboards, tables, and layouts 📊
 Improve user experience with simple solutions 👍
 
 
+🔹 My Goals 🎯
+
+I am currently learning:
+
+Advanced JavaScript 🔥
+UI/UX design 🎯
+Computer graphics 🖌️
+
+My goal is to become a professional developer and 3D artist 🚀.
+
+
