@@ -101,3 +101,15 @@ Computer graphics 🖌️
 My goal is to become a professional developer and 3D artist 🚀.
 
 
+
+
+🔹 Why Work With Me 🤝
+
+You can expect from me:
+
+Fast learning and adaptability ⚡
+Responsibility and dedication 💪
+Clean and understandable code 🧼
+Continuous improvement 📈
+
+
