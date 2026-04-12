@@ -80,3 +80,13 @@ I enjoy building modern, responsive websites 🌐 and improving my programming s
 ###
 
 
+🔹 What I Can Do 💡
+
+I can:
+
+Build responsive and modern UI designs 📱💻
+Create clean and structured code ✨
+Work with dashboards, tables, and layouts 📊
+Improve user experience with simple solutions 👍
+
+
